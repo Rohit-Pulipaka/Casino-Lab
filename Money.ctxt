@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=money
+comment0.target=Money(int)
+comment1.params=
+comment1.target=int\ getMoneyLeft()
+comment2.params=money
+comment2.target=void\ addMoney(int)
+comment3.params=money
+comment3.target=void\ subtractMoney(int)
+numComments=4

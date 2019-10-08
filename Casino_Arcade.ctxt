@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=moneyLeft\ moneyInWallet
+comment1.target=void\ blackJack(Money,\ int)
+comment10.params=
+comment10.target=void\ actionGame()
+comment11.params=
+comment11.target=void\ rps()
+comment2.params=player
+comment2.target=boolean\ is21(Player)
+comment3.params=player
+comment3.target=void\ checkAcePlayer(Player)
+comment4.params=player
+comment4.target=boolean\ checkPlayerBust(Player)
+comment5.params=dealer
+comment5.target=void\ checkAceDealer(Dealer)
+comment6.params=dealer
+comment6.target=boolean\ checkDealerBust(Dealer)
+comment7.params=dealer\ player
+comment7.target=int\ checkWinner(Dealer,\ Player)
+comment8.params=moneyLeft\ moneyInWallet
+comment8.target=void\ videoPoker(Money,\ int)
+comment9.params=moneyLeft\ moneyInWallet
+comment9.target=void\ roulette(Money,\ int)
+numComments=12
